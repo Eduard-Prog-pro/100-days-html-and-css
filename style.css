@@ -1,0 +1,35 @@
+.titlu{
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+ }
+ .border1{
+    height: 700px;
+    background-color: cadetblue;
+    position : fixed;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 20px;
+}.border2{
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    position : fixed;
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 20px;
+    margin-top:9px;
+    margin-left: 405px;
+}
+.text{
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
